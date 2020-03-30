@@ -13,4 +13,9 @@ public class CalculadoraVer {
 		int resultado = parametro1 + parametro2;
 		return resultado;
 	}
+	
+	public int restar() {
+		int resultado = parametro1 - parametro2;
+		return resultado;
+	}
 }
